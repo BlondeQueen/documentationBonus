@@ -59,7 +59,7 @@ export function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="https://github.com/Momo-azangue/App-Bonus" target="_blank" className="text-muted-foreground hover:text-foreground transition-colors">
+                <Link href="https://bonus-front-mu.vercel.app/" target="_blank" className="text-muted-foreground hover:text-foreground transition-colors">
                   Application d'exemple
                 </Link>
               </li>
