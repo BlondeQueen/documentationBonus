@@ -42,7 +42,7 @@ export function TeamSection() {
       name: "Franck NOUNDJEU",
       role: "",
       bio: "Élève ingénieur en génie informatique",
-      avatar: "",
+      avatar: "https://i.postimg.cc/HxkGnT9n/Whats-App-Image-2025-03-02-at-8-40-55-PM.jpg",
       social: {
         github: "https://github.com/frankettheofranckettheo",
         linkedin: "#",
@@ -52,8 +52,8 @@ export function TeamSection() {
     {
       name: "Fresnel KENGNE",
       role: "backend",
-      bio: "Élève ingénieur en génie informatique",
-      avatar: "",
+      bio: "Élève ingénieur en informatique, passionnée par le développement d'API",
+      avatar: "https://i.postimg.cc/cH9p8PFm/Whats-App-Image-2025-03-02-at-9-02-45-PM.jpg",
       social: {
         github: "#",
         linkedin: "#",
