@@ -18,9 +18,9 @@ export function TeamSection() {
     },
     {
       name: "Willy WATCHO",
-      role: "Chef de groupe",
-      bio: "Élève ingénieur en génie informatique",
-      avatar: "",
+      role: "Chef de groupe & Chef équipe backend",
+      bio: "Développeur fullstack, passionné par les nouvelles technologies, avec une expérience solide dans la conception et le développement d'applicationd performantes et évolutive",
+      avatar: "https://i.postimg.cc/wTpCP7xM/Whats-App-Image-2025-03-03-at-8-43-14-AM.jpg",
       social: {
         github: "https://github.com/nkwilly",
         linkedin: "#",
